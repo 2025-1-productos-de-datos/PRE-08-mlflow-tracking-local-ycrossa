@@ -1,0 +1,6 @@
+artifact_location: file:C:\producto de datos\PRE-08-mlflow-tracking-local-ycrossa\my_mlruns/780408893466103929
+creation_time: 1748101647833
+experiment_id: '780408893466103929'
+last_update_time: 1748101647833
+lifecycle_stage: active
+name: wine_quality_experiment

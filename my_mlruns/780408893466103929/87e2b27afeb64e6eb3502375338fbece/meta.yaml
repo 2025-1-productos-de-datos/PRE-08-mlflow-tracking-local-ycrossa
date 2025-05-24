@@ -1,0 +1,15 @@
+artifact_uri: file:C:\producto de datos\PRE-08-mlflow-tracking-local-ycrossa\my_mlruns/780408893466103929/87e2b27afeb64e6eb3502375338fbece/artifacts
+end_time: 1748101648103
+entry_point_name: ''
+experiment_id: '780408893466103929'
+lifecycle_stage: active
+run_id: 87e2b27afeb64e6eb3502375338fbece
+run_name: elasticnet_aee4e554
+run_uuid: 87e2b27afeb64e6eb3502375338fbece
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748101648029
+status: 3
+tags: []
+user_id: yurladysca
